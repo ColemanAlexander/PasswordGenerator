@@ -23,7 +23,7 @@ specifying the (default) name of the file and its (path) location.
 The final component of the assignment concerns the use of the random function which 
 is an intrinsic function of a Python library. The aim is to replace this function with one 
 generated using the evolutionary computing (symbolic regression) system TuringBot:
-• Use random.org to produce a stream of random numbers in [0,1].
+• Use [random.org](https://www.random.org) to produce a stream of random numbers in [0,1].
 
 
 • Use this sequence to seed the data for implementation of the 
